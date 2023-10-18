@@ -1,6 +1,4 @@
-# Why Hello There :wave:
-
-Mostly a Rust developer 🦀 but lots of previous Go ([goquery](https://github.com/AbGuthrie/goquery)) and C++ ([osquery](https://github.com/osquery/osquery)) work.
+Rust developer 🦀 but lots of previous Go ([goquery](https://github.com/AbGuthrie/goquery)) and C++ ([osquery](https://github.com/osquery/osquery)) work.
 
 Currently: 🛠️ing things that should exist under permissive licences for everyone to use.
 
