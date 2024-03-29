@@ -9,6 +9,9 @@ Scale hardware SSH keys for access and code signing across your infrastructure a
 ### [Exhibit](https://github.com/obelisk/exhibit) ✨📱✨
 Give interactive presentations without giving external services access to your slide data. Major updates coming soon.
 
+### [Plaid](https://github.com/obelisk/plaid) ⏱️ 🚀
+Go fast writing automations in Rust. Write rules, compile to WASM, execute at the speed of logs.
+
 ## Useful Libraries
 ### [Endpoint Security Rust Bindings](https://github.com/obelisk/endpointsecurity) 🛡️
 Build your own memory safe endpoint security product for macOS (and eventually maybe other *OS platforms 🤔). Helpful abstractions over many events ES provides with it being easy to add more.
